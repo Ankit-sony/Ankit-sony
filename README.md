@@ -1,4 +1,4 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)]
+![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 <h1 align="center">Hi 👋, I'm Ankit Soni</h1>
 <h3 align="center">A tech geek from india</h3>
 
