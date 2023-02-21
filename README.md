@@ -8,7 +8,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit-sony&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-sony" /> </p>
 <br>
 
-<p align="cnter"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-sony" alt="ankit-sony" /></a> </p>
+<p align="cnter"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-sony&theme=gruvbox" alt="ankit-sony" /></a> </p>
+
 
 - 🌱 I’m currently learning **JAVA , full stack**
 
